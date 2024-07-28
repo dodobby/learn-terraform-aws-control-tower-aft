@@ -1,9 +1,6 @@
-<<<<<<< HEAD
-=======
 # Copyright (c) HashiCorp, Inc.
 # SPDX-License-Identifier: MPL-2.0
 
->>>>>>> 44b2e24 (Initial Commit)
 output "ct_management_account_id" {
   value = var.ct_management_account_id
 }
